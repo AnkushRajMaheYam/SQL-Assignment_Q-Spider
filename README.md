@@ -94,7 +94,9 @@ The **Assign3** folder focuses on **OPERATORS**:
 ## LinkedIn Post  
 
 Check out the full handwritten notes that inspired these assignments:  
+![Preview of SQL Hand Written Notes](SQL-HandWritten-Notes.png)
 👉 [SQL Handwritten Notes by Ankush Raj Mahe Yam](https://www.linkedin.com/posts/ankushrajmaheyam_sql-handwritten-full-notes-ankush-raj-mahe-activity-7261754552075333633-6vMt?utm_source=share&utm_medium=member_desktop)  
+
 
 ---
 
