@@ -1,4 +1,8 @@
 -- PAGE NO 21-35 (OPERATORS)
+/*
+NOTE :- Full notes Available in Github(@ankushrajmaheyam) or Either copy paste this link( https://www.linkedin.com/posts/ankushrajmaheyam_sql-handwritten-full-notes-ankush-raj-mahe-activity-7261754552075333633-6vMt?utm_source=share&utm_medium=member_desktop ) on any Browser.
+
+*/
 -- AND
 -- 23. WAQTD NAME AND DEPT NO, ALONG WITH JOB FOR IT'S EMPLOYEE WORKING AS MANAGER IN DEPT 10.
 SELECT ENAME, DEPTNO, JOB

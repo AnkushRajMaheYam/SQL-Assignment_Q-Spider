@@ -1,5 +1,8 @@
 -- PAGE NO 17-19(ASSIGNMENT ON WHERE CLAUSE)
+/*
+NOTE :- Full notes Available in Github(@ankushrajmaheyam) or Either copy paste this link( https://www.linkedin.com/posts/ankushrajmaheyam_sql-handwritten-full-notes-ankush-raj-mahe-activity-7261754552075333633-6vMt?utm_source=share&utm_medium=member_desktop ) on any Browser.
 
+*/
 -- 8. WAQTD THE ANNUAL SALARY OF THE EMPLOYEE WHOSE NAME IS SMITH.
 SELECT SAL*12
 FROM EMP
